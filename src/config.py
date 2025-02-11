@@ -1,3 +1,3 @@
-BOT_TOKEN = "" # NDA
+BOT_TOKEN = "" # API
 
-ADMINS = [0] # NDA
+ADMINS = [0] # personal number or person telegram
